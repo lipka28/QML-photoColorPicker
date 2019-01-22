@@ -10,5 +10,6 @@
         <file>images/baseline_highlight_black_48dp.png</file>
         <file>images/baseline_photo_camera_black_48dp.png</file>
         <file>images/baseline_center_focus_strong_black_48dp.png</file>
+        <file>LoadBar.qml</file>
     </qresource>
 </RCC>

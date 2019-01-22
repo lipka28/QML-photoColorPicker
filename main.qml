@@ -5,12 +5,11 @@ ApplicationWindow {
     visible: true
     width: 720
     height: 1280
-    title: qsTr("Tabs")
+    title: qsTr("noTabs")
 
     SwipeView {
         id: swipeView
         anchors.fill: parent
-        currentIndex: tabBar.currentIndex
 
         Page1Form {
         }
