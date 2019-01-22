@@ -14,20 +14,5 @@ ApplicationWindow {
 
         Page1Form {
         }
-
-        Page2Form {
-        }
-    }
-
-    footer: TabBar {
-        id: tabBar
-        currentIndex: swipeView.currentIndex
-
-        TabButton {
-            text: qsTr("Find Color")
-        }
-        TabButton {
-            text: qsTr("Color Info")
-        }
     }
 }
