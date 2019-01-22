@@ -5,5 +5,11 @@
         <file>Page2Form.ui.qml</file>
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>CapturePreview.qml</file>
+        <file>CameraView.qml</file>
+        <file>images/baseline_delete_forever_black_48dp.png</file>
+        <file>images/baseline_highlight_black_48dp.png</file>
+        <file>images/baseline_photo_camera_black_48dp.png</file>
+        <file>images/baseline_center_focus_strong_black_48dp.png</file>
     </qresource>
 </RCC>

@@ -6,14 +6,9 @@ Page {
     height: 400
 
     header: Label {
-        text: qsTr("Color History")
+        text: qsTr("Color Information")
         horizontalAlignment: Text.AlignHCenter
         font.pixelSize: Qt.application.font.pixelSize * 2
         padding: 10
-    }
-
-    Label {
-        text: qsTr("Color List Placeholder")
-        anchors.centerIn: parent
     }
 }

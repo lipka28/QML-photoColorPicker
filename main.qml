@@ -3,8 +3,8 @@ import QtQuick.Controls 2.2
 
 ApplicationWindow {
     visible: true
-    width: 640
-    height: 480
+    width: 720
+    height: 1280
     title: qsTr("Tabs")
 
     SwipeView {
@@ -24,10 +24,10 @@ ApplicationWindow {
         currentIndex: swipeView.currentIndex
 
         TabButton {
-            text: qsTr("Add new Color")
+            text: qsTr("Find Color")
         }
         TabButton {
-            text: qsTr("Color history")
+            text: qsTr("Color Info")
         }
     }
 }
